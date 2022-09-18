@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/coxswain-mayhem.jar clojure.main -m coxswain-mayhem.server
